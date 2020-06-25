@@ -9,6 +9,17 @@ EyeCanCode has won many honours internationally, including:
   <li>Top Two, Wolfram Sponsor Award, HAccess</li>
 </ol>
 
+## How to Run and Contribute
+To edit the source code, follow the following steps:
+<ol>
+  <li>Git Clone the Project: `git clone https://github.com/GenericP3rson/EyeCanCode.git`</li>
+  <li>**To run the project, use `flask run`.**</li>
+  <li>Make the necessary edits.</li>
+  <li>Commit changes and create a pull request.</li>
+  <li>We will get back to you shortly!</li>
+</ol>
+For any further questions, please email us at eyecancode@gmail.com.
+
 ## Inspiration
 With the recent COVID-19 pandemic, students worldwide have transitioned to online schooling. For some students, however, the transition has been harder than for others. Near where Veer lives is the oldest school for blind students: Perkins School for the Blind. Veer had always wanted to help them, and, during these times, he decided to help them when they needed it more than ever. Together, Veer and Shreya worked on an online platform dedicated for the blind and targeted for Veer and Shreya's favourite lesson: programming.<br>
 According to the National Federation of the Blind, COVID-19 has had a disproportionate impact on the blind, with many facing additional challenges during the pandemic. From an education standpoint, blind students and blind parents face uncertainty about the types of electronic materials they will be expected to use for the remainder of the academic year, making it hard for them to keep up with classes. Lastly, it is difficult for the visually impaired to learn how to code on their computer, a challenge which has been exacerbated by the pandemic.
