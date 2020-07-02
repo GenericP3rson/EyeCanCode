@@ -4,6 +4,7 @@ A platform for students with visual impairments to learn how to code. Test it ou
 ## Awards
 EyeCanCode has won many honours internationally, including:
 <ol>
+  <li>1st Overall, Hack COVID19</li>
   <li>2nd Most Innovative, GeomHacks</li>
   <li>Top 20, GeomHacks</li>
   <li>Top Two, Wolfram Sponsor Award, HAccess</li>
